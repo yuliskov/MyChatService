@@ -1,7 +1,7 @@
 # Chat service using WebSockets
 
-## Run
+Run
 
-### `mvn spring-boot:run`
+`mvn spring-boot:run`
 
 Requires OpenJDK 14.<br />
