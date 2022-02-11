@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      database: my_chat_service
+      port: 27018
