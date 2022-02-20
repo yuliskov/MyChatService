@@ -29,4 +29,6 @@ public interface ChatMessageRepository
             String senderId, String recipientId, MessageStatus status);
 
     List<ChatMessage> findByChatId(String chatId);
+
+    List<ChatMessage> findByRecipientId(String recipientId);
 }
